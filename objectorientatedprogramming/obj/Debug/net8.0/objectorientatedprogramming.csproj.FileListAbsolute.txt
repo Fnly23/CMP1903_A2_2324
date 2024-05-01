@@ -1,0 +1,14 @@
+C:\Users\i55yw\Desktop\OOP-V2\objectorientatedprogramming\bin\Debug\net8.0\objectorientatedprogramming.exe
+C:\Users\i55yw\Desktop\OOP-V2\objectorientatedprogramming\bin\Debug\net8.0\objectorientatedprogramming.deps.json
+C:\Users\i55yw\Desktop\OOP-V2\objectorientatedprogramming\bin\Debug\net8.0\objectorientatedprogramming.runtimeconfig.json
+C:\Users\i55yw\Desktop\OOP-V2\objectorientatedprogramming\bin\Debug\net8.0\objectorientatedprogramming.dll
+C:\Users\i55yw\Desktop\OOP-V2\objectorientatedprogramming\bin\Debug\net8.0\objectorientatedprogramming.pdb
+C:\Users\i55yw\Desktop\OOP-V2\objectorientatedprogramming\obj\Debug\net8.0\objectorientatedprogramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i55yw\Desktop\OOP-V2\objectorientatedprogramming\obj\Debug\net8.0\objectorientatedprogramming.AssemblyInfoInputs.cache
+C:\Users\i55yw\Desktop\OOP-V2\objectorientatedprogramming\obj\Debug\net8.0\objectorientatedprogramming.AssemblyInfo.cs
+C:\Users\i55yw\Desktop\OOP-V2\objectorientatedprogramming\obj\Debug\net8.0\objectorientatedprogramming.csproj.CoreCompileInputs.cache
+C:\Users\i55yw\Desktop\OOP-V2\objectorientatedprogramming\obj\Debug\net8.0\objectorientatedprogramming.dll
+C:\Users\i55yw\Desktop\OOP-V2\objectorientatedprogramming\obj\Debug\net8.0\refint\objectorientatedprogramming.dll
+C:\Users\i55yw\Desktop\OOP-V2\objectorientatedprogramming\obj\Debug\net8.0\objectorientatedprogramming.pdb
+C:\Users\i55yw\Desktop\OOP-V2\objectorientatedprogramming\obj\Debug\net8.0\objectorientatedprogramming.genruntimeconfig.cache
+C:\Users\i55yw\Desktop\OOP-V2\objectorientatedprogramming\obj\Debug\net8.0\ref\objectorientatedprogramming.dll
